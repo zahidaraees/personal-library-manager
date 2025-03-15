@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Aphorisim and Balochi Aphorism",
+        "author": "Zahida Raees Raji",
+        "year": 2020,
+        "genre": "Non-Fiction",
+        "read": true
+    },
+    {
+        "title": "By Kessah A Mana Waab Naet",
+        "author": "Zahida Raees Raji",
+        "year": 2015,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "Kashkol",
+        "author": "Majzoob",
+        "year": 1980,
+        "genre": "Poetry",
+        "read": true
+    },
+    {
+        "title": "Khwab Gharonda",
+        "author": "Zahida Raees Raji",
+        "year": 2014,
+        "genre": "Poetry",
+        "read": true
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy",
+        "read": false
+    },
+    {
+        "title": "abc",
+        "author": "xyz",
+        "year": 1980,
+        "genre": "none",
+        "read": true
+    },
+    {
+        "title": "Python for Everybody2",
+        "author": "charles ",
+        "year": 2016,
+        "genre": "Programming",
+        "read": true
+    }
+]
